@@ -1,0 +1,38 @@
+Day2 Jam
+========
+1. Git stash
+2. git stash pop
+3. git stash u
+4. git revert
+5. Different reasons why merge conflicts occur
+3. git log different variations of git log
+4. git fetch
+5. git clone and git fork and explain the diff in detailed
+6. git pull 
+7. git 
+8. git merge
+9. git reset
+10. git merge --abort
+11. two way merge
+12. three way merge
+13. fast forward merge
+14. Different phases of SDLC
+15. What is SRS document 
+16. What is  Scope
+17. What are FR's
+18. What are NFR's and list all the NFR's
+19. What is water fall model and when and why do we use it
+20. what is V model and when and why do we use it
+21. Difference different between water fall and V
+22. what is incremental model and when and why do we use it
+23. what is spiral model and when and why do we use it
+24. What is RAD model and when and why do we use it
+25. What is Agile model 
+26. Agile model is combination of ________ and ________ model
+27. Spiral model is a combination of _________ and ___________
+28. Which models takes constant feedback from client
+29. which model should be used when you are working with different modules and they are not dependent of each other and you want to release them as quickly as possible.
+30. Name Different Agile methodologies
+31.
+32.
+
